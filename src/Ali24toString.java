@@ -1,6 +1,6 @@
 public class Ali24toString {
     public static void main(String[] args) {
-        Human h1 = new Human("Bob", 40);
+        Human h1 = new Human("Rob", 40);
         System.out.println(h1.toString());
     }
 }

@@ -4,8 +4,8 @@ public class Ali23StringBuilder {
         x = x.toUpperCase();
         System.out.println(x);
         System.out.println("------------");
-        String string1 = "Hello ";
-        String string2 = " my ";
+        String string1 = "Hell";
+        String string2 = "my ";
         String string3 = "  friend";
         String StringAll = string1 + string2 + string3;
         System.out.println(StringAll);
