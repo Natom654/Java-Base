@@ -8,7 +8,7 @@ public class Animal implements Info {
     }
 
     public void sleep() {
-        System.out.println("I am sleeping");
+        System.out.println("I am sleeping  ");
     }
 
     @Override

@@ -12,3 +12,4 @@ public class Ali25Inheritance {
         dog.showName();
     }
 }
+//

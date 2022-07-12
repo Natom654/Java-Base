@@ -2,7 +2,7 @@ package Ali25;
 
 public class Animal {
 
-    String name = "Some animal";
+    String name = "Some interesting animal";
 
     public void eat() {
         System.out.println("Animal is eating");
