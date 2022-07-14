@@ -6,7 +6,7 @@ public class Bet {
     public static void main(String[] args) {
         while (true) {
             Scanner cons = new Scanner(System.in);
-            System.out.println("Введите ваши ставки через пробел ");
+            System.out.println("Введите ваши ставки через пробел");
             String str = cons.nextLine();
             String[] bet = str.split(" ");
             int[] betint = new int[bet.length];
